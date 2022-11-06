@@ -1,0 +1,17 @@
+{
+  "short_name": "TreeDefi",
+  "name": "TreeDefi",
+  "description": "The First Eco-Friendly DeFi Company",
+
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
